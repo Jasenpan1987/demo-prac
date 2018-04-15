@@ -1,0 +1,20 @@
+{
+  "name": "one-more",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.224.1",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mongodb": "^3.0.6",
+    "nodemon": "^1.17.3",
+    "ramda": "^0.25.0"
+  }
+}
